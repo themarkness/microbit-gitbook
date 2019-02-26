@@ -21,3 +21,5 @@ Using a house plant and a micro:bit we will find a way to detect how dry the soi
 
 ### Let's get started
 
+### Code it
+
