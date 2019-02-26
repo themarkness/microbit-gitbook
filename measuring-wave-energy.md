@@ -22,3 +22,9 @@ Waves store or disperse energy. A wave’s energy is proportional to the square 
 
 Make a loop around wthe jar with the string then tie a know \(description\). Once the micro:bit is safely inside we'll also secure the jar with tape to ensure the seal is air tight.
 
+
+
+Extra tasks
+
+How might you modify the project to get better results? Could you change the jar, the code or the way you collect the data?
+
