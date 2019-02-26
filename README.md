@@ -6,5 +6,9 @@ description: >-
 
 # Making a name tag
 
+### Things you will need
+
 ### Code it
+
+### Modify it
 
