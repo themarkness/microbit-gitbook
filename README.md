@@ -35,5 +35,5 @@ It can also be connected to lots of other things so we can make sounds, send mes
 
 
 
-There's lot's more information on the [features of the micro:bit on the microbit.org website](https://microbit.org/guide/features/), but for now  let's open the next project and have a go at Making a name badge.
+There's lot's more information on the [features of the micro:bit on the microbit.org website](https://microbit.org/guide/features/), but for now let's open the next project and make a name badge.
 
