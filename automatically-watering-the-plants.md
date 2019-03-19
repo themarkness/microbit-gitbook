@@ -4,7 +4,7 @@ description: >-
   plants and if they are thirsty, give them a drink!
 ---
 
-# Automatically watering the plants
+# Automatically water the plants
 
 ![plug plants](.gitbook/assets/daniel-hjalmarsson-269425-unsplash.jpg)
 

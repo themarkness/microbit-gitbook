@@ -1,4 +1,4 @@
-# Garbage Monster
+# Make a garbage monster
 
 ### Things you will need:
 

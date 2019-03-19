@@ -1,8 +1,9 @@
 # Table of contents
 
-* [Making a name tag](README.md)
-* [Automatically watering the plants](automatically-watering-the-plants.md)
-* [Garbage Monster](garbage-monster.md)
-* [Measuring wave energy](measuring-wave-energy.md)
-* [Project 5](project-5.md)
+* [What is a micro:bit?](README.md)
+* [Make a name badge](making-a-name-badge.md)
+* [Automatically water the plants](automatically-watering-the-plants.md)
+* [Make a garbage monster](garbage-monster.md)
+* [Measure wave energy](measuring-wave-energy.md)
+* [Make a sunburn alarm](project-5.md)
 

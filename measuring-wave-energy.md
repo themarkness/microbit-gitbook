@@ -1,4 +1,4 @@
-# Measuring wave energy
+# Measure wave energy
 
 Rephrase: --- Ocean waves have a powerful influence on both marine life and the planet’s climate. The wind forms waves that travel easily across the surface of water, changing speed, frequency and depth depending on the wind force. This creates energy.
 
