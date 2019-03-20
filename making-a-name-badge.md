@@ -16,7 +16,9 @@ We'll be using the [MakeCode for micro:bit](https://makecode.microbit.org/) edit
 
 Open a new project at [makecode.microbit.org](https://makecode.microbit.org/)
 
-
+```blocks
+basic.showString("Hello world");
+```
 
 ### Modify it
 
