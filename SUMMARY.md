@@ -5,5 +5,5 @@
 * [Automatically water the plants](automatically-watering-the-plants.md)
 * [Make a garbage monster](garbage-monster.md)
 * [Measure wave energy](measuring-wave-energy.md)
-* [Make a sunburn alarm](project-5.md)
+* [Make a sun exposure alarm](project-5.md)
 
