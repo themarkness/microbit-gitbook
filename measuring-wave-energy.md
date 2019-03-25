@@ -16,7 +16,7 @@ The worldwide resource of coastal wave energy has been estimated to be greater t
 
 However, the more powerful the wave the more harm it can do to the coastline. Passing boats for example can generate multiple waves in their wake and storms produce larger waves that can cause coastal erosion.
 
-So how might we measure the potential power of the ocean and the effect on our coastline?
+So how might we measure the potential power of the ocean and the effect on our coastline? By throwing a micro:bit in the sea... well in a watertight jar anyway.
 
 ### Things you will need
 
@@ -31,15 +31,27 @@ So how might we measure the potential power of the ocean and the effect on our c
 
 ### Code it
 
+For this project we are going to use two micro:bits. One will be our transmitter and will be contained in the jar, sending us the data from the accelerometer. The second will be our receiver and will allow us to view the wave data on our screens in real time!
 
+### Transmitter
+
+![code for the wave transmitter](.gitbook/assets/microbit-screenshot-1.png)
+
+[https://makecode.microbit.org/\_5xghRpEU24fj](https://makecode.microbit.org/_5xghRpEU24fj)
+
+### Receiver
+
+![](.gitbook/assets/microbit-screenshot-2.png)
+
+[https://makecode.microbit.org/\_M9CeCTbTocP5](https://makecode.microbit.org/_M9CeCTbTocP5)
 
 ### Securing the jar
 
-Make a loop around wthe jar with the string then tie a know \(description\). Once the micro:bit is safely inside we'll also secure the jar with tape to ensure the seal is air tight.
-
-
+Make a loop around the jar with the string then tie a know \(description\). Once the micro:bit is safely inside we'll also secure the jar with tape to ensure the seal is air tight.
 
 ### Modify it
 
 How might you modify the project to get better results? Could you change the jar, the code or the way you collect the data?
+
+How about [uploading it to the cloud in real time](https://www.youtube.com/playlist?list=PLGYgoZPmYyek0eIEfVWyt3nK_J8iZ4OBP)?
 
