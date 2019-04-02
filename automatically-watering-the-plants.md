@@ -15,13 +15,39 @@ Using a house plant and a micro:bit we will find a way to detect how dry the soi
 ### Things you will need:
 
 * micro:bit with battery pack
+* crocodile clip leads
 * moisture sensor 
 * water pump
 * a plant to water
 
-### Let's get started
+### Part 1 - Detecting moisture
+
+Connect the moisture sensor to the micro:bit with the crocodile clip leads:  
++ goes to 3v  
+- goes to GND  
+droplet symbol goes to pin0
+
+Add some dry soil to a plant pot and a seedling.
 
 ### Code it
 
+This code takes a reading from the pin and displays it on the LED screen of the micro:bit
+
+![](.gitbook/assets/screenshot.png)
+
+\*\*\*\*[https://makecode.microbit.org/\_dfbAaR36o5Wo](https://makecode.microbit.org/_dfbAaR36o5Wo)
+
+### Take some readings
+
+Place the moisture sensor in the plant pot, it shouldn't register much. Try adding some water to see the change.
+
 ### Modify it
+
+This code takes a constant reading and displays a graph, try to modify the code so that we display the current reading when we **press Button A.**
+
+We should also try to conserve energy. Try **reducing the LED brightness** and **only taking a reading every 5 seconds**
+
+### Part 2 - Watering the plant when it's dry
+
+
 
